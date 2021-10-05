@@ -34,14 +34,10 @@ namespace P1_AP1_Prandi_20190281.UI.Consultas
             {
                 switch (FiltroComboBox.SelectedIndex)
                 {
-                    case 0: 
-                        listado = AportesBLL.GetList(e => e.AporteID == Utilidades.ToInt(CriterioTextBox.Text));
-                        break;
-
-                    case 1:                       
+                    case 0:                       
                         listado = AportesBLL.GetList(e => e.Persona.ToLower().Contains(CriterioTextBox.Text.ToLower()));
                         break;
-                    case 2:
+                    case 1:
                         listado = AportesBLL.GetList(e => e.Concepto.ToLower().Contains(CriterioTextBox.Text.ToLower()));
                         break; 
                 }
