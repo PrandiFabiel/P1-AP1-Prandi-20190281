@@ -33,7 +33,7 @@
                 <TextBox x:Name="ConceptoTextBox" Text="{Binding Concepto}"/>
 
                 <Label Content="Monto:"/>
-                <TextBox x:Name="MontoTextBox" Text="{Binding Monto}" Width="100" Margin="0,0,280,0"/>
+                <TextBox x:Name="MontoTextBox" Text="{Binding Monto}" Width="85" Margin="0,0,280,0"/>
 
             </StackPanel>
 
