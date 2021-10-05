@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabie\\Documents\\UCNE\\Semestre 8\\ProgramacionAplicada\\PrimerParcialAplicada\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Borrar\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabie\\Documents\\UCNE\\Semestre 8\\ProgramacionAplicada\\PrimerParcialAplicada\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj": {
+    "C:\\Users\\USER\\Desktop\\Borrar\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabie\\Documents\\UCNE\\Semestre 8\\ProgramacionAplicada\\PrimerParcialAplicada\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Borrar\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj",
         "projectName": "P1-AP1-Prandi-20190281",
-        "projectPath": "C:\\Users\\fabie\\Documents\\UCNE\\Semestre 8\\ProgramacionAplicada\\PrimerParcialAplicada\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj",
-        "packagesPath": "C:\\Users\\fabie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabie\\Documents\\UCNE\\Semestre 8\\ProgramacionAplicada\\PrimerParcialAplicada\\P1-AP1-Prandi-20190281\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Borrar\\P1-AP1-Prandi-20190281\\P1-AP1-Prandi-20190281.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Borrar\\P1-AP1-Prandi-20190281\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fabie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
