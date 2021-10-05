@@ -11,7 +11,7 @@ namespace P1_AP1_Prandi_20190281.Entidades
     {
         [Key]
         public int AporteID { get; set; }
-        public DateTime Fecha { get; set; }
+        public DateTime Fecha { get; set; } = DateTime.Now; 
         public string Persona { get; set; }
         public string Concepto { get; set; }
         public float Monto { get; set; }
