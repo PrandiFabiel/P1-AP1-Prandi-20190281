@@ -12,6 +12,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using P1_AP1_Prandi_20190281.BLL;
+using P1_AP1_Prandi_20190281.UI.Registros;
+using P1_AP1_Prandi_20190281.UI.Consultas; 
+
 
 namespace P1_AP1_Prandi_20190281
 {
@@ -27,12 +31,14 @@ namespace P1_AP1_Prandi_20190281
 
         private void AportesMenuItem_Click(object sender, RoutedEventArgs e)
         {
-
+            rAportes rAportes = new rAportes();
+            rAportes.Show(); 
         }
 
         private void ConsultaAportesMenuItem_Click(object sender, RoutedEventArgs e)
         {
-
+            cAportes cAportes = new cAportes();
+            cAportes.Show(); 
         }
     }
 }

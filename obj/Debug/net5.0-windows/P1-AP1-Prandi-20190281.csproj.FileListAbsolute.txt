@@ -57,3 +57,13 @@ C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplic
 C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\ref\P1-AP1-Prandi-20190281.dll
 C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\P1-AP1-Prandi-20190281.pdb
 C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\P1-AP1-Prandi-20190281.genruntimeconfig.cache
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\bin\Debug\net5.0-windows\Resources\Buscar.png
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\bin\Debug\net5.0-windows\Resources\Eliminar.png
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\bin\Debug\net5.0-windows\Resources\Guardar.png
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\bin\Debug\net5.0-windows\Resources\Nuevo.png
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\bin\Debug\net5.0-windows\DATA\AporteControl.db
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\UI\Consultas\cAportes.g.cs
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\UI\Registros\rAportes.g.cs
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\P1-AP1-Prandi-20190281_Content.g.cs
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\UI\Consultas\cAportes.baml
+C:\Users\fabie\Documents\UCNE\Semestre 8\ProgramacionAplicada\PrimerParcialAplicada\P1-AP1-Prandi-20190281\obj\Debug\net5.0-windows\UI\Registros\rAportes.baml
