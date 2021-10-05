@@ -56,7 +56,12 @@ namespace P1_AP1_Prandi_20190281.UI.Consultas
             DatosDataGrid.ItemsSource = null;
             DatosDataGrid.ItemsSource = listado;
 
-            var monto = listado.Sum(x => x.Monto);
+             var monto = listado.Sum(x => x.Monto);
+            var conteo = listado.Count();
+
+            ConteoTextBox.Text = conteo.ToString(); 
+
+            TotalTextBox.Text = monto.ToString(); 
             
         }
     }
