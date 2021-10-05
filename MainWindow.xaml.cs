@@ -24,5 +24,15 @@ namespace P1_AP1_Prandi_20190281
         {
             InitializeComponent();
         }
+
+        private void AportesMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ConsultaAportesMenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
