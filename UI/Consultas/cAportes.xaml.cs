@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+
 namespace P1_AP1_Prandi_20190281.UI.Consultas
 {
     /// <summary>
