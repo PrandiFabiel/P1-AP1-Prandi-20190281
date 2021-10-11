@@ -31,14 +31,14 @@ namespace P1_AP1_Prandi_20190281
 
         private void AportesMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            rAportes rAportes = new rAportes();
-            rAportes.Show(); 
+            rAportes rAporte = new rAportes();
+            rAporte.Show(); 
         }
 
         private void ConsultaAportesMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            cAportes cAportes = new cAportes();
-            cAportes.Show(); 
+            cAportes cAporte = new cAportes();
+            cAporte.Show(); 
         }
     }
 }
