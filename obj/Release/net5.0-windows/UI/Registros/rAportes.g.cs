@@ -119,13 +119,13 @@ namespace P1_AP1_Prandi_20190281.UI.Registros {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.9.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.10.0")]
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/P1-AP1-Prandi-20190281;V1.0.0.0;component/ui/registros/raportes.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/P1-AP1-Prandi-20190281_ion3qv4b_wpftmp;component/ui/registros/raportes.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\UI\Registros\rAportes.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -135,7 +135,7 @@ namespace P1_AP1_Prandi_20190281.UI.Registros {
         }
         
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.9.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.10.0")]
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
