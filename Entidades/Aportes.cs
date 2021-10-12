@@ -10,7 +10,7 @@ namespace P1_AP1_Prandi_20190281.Entidades
     public class Aportes
     {
         [Key]
-        public int AporteID { get; set; }
+        public int AporteId { get; set; }
         public DateTime Fecha { get; set; } = DateTime.Now; 
         public string Persona { get; set; }
         public string Concepto { get; set; }
