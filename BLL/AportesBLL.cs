@@ -9,14 +9,13 @@ using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore; 
 
 
-
 namespace P1_AP1_Prandi_20190281.BLL
 {
    public class AportesBLL
     {
         public static bool Guardar(Aportes aportes)
         {
-            if (!Existe(aportes.AporteID))
+            if (!Existe(aportes.AporteId))
                 return Insertar(aportes);
             else
                 return Modificar(aportes); 
@@ -103,7 +102,7 @@ namespace P1_AP1_Prandi_20190281.BLL
 
             try
             {
-                encontrado = contexto.Aportes.Any(e => e.AporteID == id); 
+                encontrado = contexto.Aportes.Any(e => e.AporteId == id); 
             }
             catch (Exception)
             {

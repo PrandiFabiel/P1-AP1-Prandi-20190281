@@ -9,10 +9,10 @@
     <Grid>
         <StackPanel Orientation="Vertical" Margin="10,10,10,10">
             <StackPanel Orientation="Vertical">
-                <Label Content="Aporte ID:"/>
+                <Label Content="Aporte Id:"/>
                 
                 <StackPanel Orientation="Horizontal">
-                    <TextBox x:Name="AporteIdTextBox" Text="{Binding AporteID}" Width="100" Height="18"/>
+                    <TextBox x:Name="AporteIdTextBox" Text="{Binding AporteId}" Width="100" Height="18"/>
                     <Button x:Name="BuscarButton" Margin="6,0" Click="BuscarButton_Click">
                         <StackPanel Orientation="Horizontal">
                             <Image Source="/Resources/Buscar.png" Height="20"/>
